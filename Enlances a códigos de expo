@@ -1,0 +1,33 @@
+	APELLIDOS	NOMBRES	PATRÓN DE DISEÑO
+1	ACOSTA PATIÑO	HAROLD STEVEEN	Builder
+https://github.com/ISteveenI/PatronBuilder.git
+
+2	ALAVA GUIÑA	BRAULIO ALDAIR	Builder
+https://github.com/braukmax/patr-n_builder.git
+
+3	ANCHUNDIA ANCHUNDIA	LUIS ANTONIO	Builder
+https://github.com/xXxLuisxXx/Patron_Builder_Expo.git
+
+4	ANCHUNDIA MOREIRA	JORGE EMILIO	Singleton
+https://github.com/jorgeinter/patron-diseno-singleton/blob/main/DatabaseConnection.ts
+
+5	ANGULO CAÑOLA	CARLOS JOEL	Singleton
+
+
+6	ARAUZ CHOEZ	JEAN CARLOS	Singleton
+https://github.com/JeanCa74/ExposicionPOO.git
+
+7	ARBOLEDA BRIONES	GABRIEL ANDRES	Adapter
+https://github.com/GabrielArbo21/Expo_Adapter.git
+
+8	BURGOS CHOEZ	BRITTANY MICHELLE	Adapter
+9	CAICEDO MERCADO	FELIX WASHINGTON	Adapter
+10	CAMPOZANO MENDOZA	MARCOS LUIS	Decorator
+11	CANTOS MACIAS	CAMILA TERESA	Decorator
+12	CARPIO SUAREZ	JEAN PIERRE	Decorator
+13	CEDEÑO CEDEÑO	JUAN ROY	Observer
+14	COBEÑA MACIAS	YORDAN JAIR	Observer
+
+
+15	DELGADO MUÑOZ	LUIS GABRIEL	Observer
+https://github.com/luisD2815/exposici-nPo-.git
